@@ -12,25 +12,25 @@ const Team = () => {
     {
       name: "Dr. Sarah Chen",
       role: "CEO & Founder",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "/assets/team-1.jpg",
       bio: "Former urban planning professor with 15+ years of experience in smart city development.",
     },
     {
       name: "Michael Rodriguez",
       role: "CTO",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "/assets/team-1.jpg",
       bio: "IoT specialist with background in developing large-scale sensor networks for urban environments.",
     },
     {
       name: "Aisha Patel",
       role: "Head of AI Research",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "/assets/team-1.jpg",
       bio: "AI researcher focused on applying machine learning to solve complex urban challenges.",
     },
     {
       name: "David Kim",
       role: "Community Engagement Director",
-      image: "/placeholder.svg?height=300&width=300",
+      image: "/assets/team-1.jpg",
       bio: "Specializes in creating inclusive technology solutions that serve diverse urban populations.",
     },
   ]

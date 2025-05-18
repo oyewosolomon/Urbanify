@@ -8,6 +8,7 @@ import Header from "./Header"
 import Team from "./Team"
 import ScrollToTop from "./ScrollToTop"
 import { useEffect, useState } from "react"
+import FAQ from "./FAQ"
 
 const Home: React.FC = () => {
   const [scrolled, setScrolled] = useState(false)
@@ -28,6 +29,7 @@ const Home: React.FC = () => {
       <Services />
       <About />
       <Team />
+      <FAQ/>
       <Contact />
     </main>
     <Footer />
